@@ -1,4 +1,5 @@
-package com.java;
+package javasessions;
+
 
 public class Bike {
 	   
