@@ -1,4 +1,4 @@
-
+package javasessions;
 public class ClassStudent {
 	
 	int id;

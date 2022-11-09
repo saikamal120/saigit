@@ -1,4 +1,4 @@
-package com.java;
+package javasessions;
 
 import java.util.TreeSet;
 
